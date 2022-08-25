@@ -1,0 +1,8 @@
+{
+	"name": "Colors displayer",
+	"header": "colors_lib.hpp",
+	"files": [
+		"a.cpp",
+		"b.cpp"
+	]
+}

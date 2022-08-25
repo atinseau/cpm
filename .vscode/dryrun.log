@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/arthur/DEV/CPP/cpm'
+cd cpm && make > /dev/null
+./cpm/cpm 
+make: Leaving directory '/home/arthur/DEV/CPP/cpm'
+ 
